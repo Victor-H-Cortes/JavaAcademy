@@ -29,7 +29,7 @@
 	<div class="container">
 		<div class="row">
 			<div id="headerList">
-				<h1 align="center">Maintenance</h1>
+				<h1 align="center">Movie Madness</h1>
 			</div>
 			<div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
 			<div class="col-sm-10 col-md-10 col-lg-10 col-xl-10">

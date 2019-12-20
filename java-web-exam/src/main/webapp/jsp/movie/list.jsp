@@ -26,7 +26,7 @@
 			<th align="left">Title</th>
 			<th align="left">Genre</th>
 			<th align="left">Director</th>
-			<th align="left">Rating</th>
+			<th align="left">Rating (out of 10)</th>
 		</tr>
 		<c:forEach var="movie" items="${ movies }">
 			<tr>
